@@ -3,6 +3,6 @@
     "description": "Turkuaz eklentiler listesi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/plugins.json"
+      "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/refs/heads/main/plugins.json"
     ]
 }
