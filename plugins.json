@@ -306,22 +306,4 @@
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaAnimeleri.cs3",
         "name": "AsyaAnimeleri"
     },
-  {
-        "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "AsyaAnimeleri",
-        "description": "AsyaAnimeleri.top",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaAnimeleri.cs3",
-        "name": "AsyaAnimeleri"
-    },
-]
+ ]
