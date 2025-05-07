@@ -3,6 +3,6 @@
     "description": "Turkuaz eklentiler listesi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/plugins.json"
+      "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/plugins.json"
     ]
 }
