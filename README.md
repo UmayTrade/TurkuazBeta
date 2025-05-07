@@ -6,7 +6,7 @@ Deponun kısa kodu: **Turkuaz**
 
 
 
-[Depoyu otomatik yüklemek için tıklayın]([https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json](https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/repo.json))
+[Depoyu otomatik yüklemek için tıklayın](https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/repo.json))
 
 Eğer otomatik yüklemede sorun yaşıyorsanız, deponun kısa kodunu cloudstream'deki eklenti ekleme yerine yazınız. Böylece otomatik olarak eklenti kataloğumuza erişebileceksiniz.
 
