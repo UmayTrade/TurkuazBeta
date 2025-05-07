@@ -1,14 +1,12 @@
-# Makoto'nun Cloudstream Türkçe Eklentileri
+# Turkuaz'In Cloudstream Türkçe Eklentileri
 
-Deponun kısa kodu: **makoto**
+Deponun kısa kodu: **Turkuaz**
 
 <img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/assets/persona-3-makoto-3393384685hh.gif" width="100%" />
 
-[Telegram duyuru kanalına katılmak için tıklayın](https://t.me/makotocs)
 
-[Matrix sohbet kanalına katılmak için tıklayın](https://matrix.to/#/#makotocs:matrix.org)
 
-[Depoyu otomatik yüklemek için tıklayın](https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json)
+[Depoyu otomatik yüklemek için tıklayın]([https://keyiflerolsun.me/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/repo.json](https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/repo.json))
 
 Eğer otomatik yüklemede sorun yaşıyorsanız, deponun kısa kodunu cloudstream'deki eklenti ekleme yerine yazınız. Böylece otomatik olarak eklenti kataloğumuza erişebileceksiniz.
 
