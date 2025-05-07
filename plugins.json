@@ -307,23 +307,21 @@
         "name": "AsyaAnimeleri"
     },
   {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+        "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18546,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
-            "JustRelaxable"
+            "Makoto Tokioki"
         ],
         "tvTypes": [
-            "Documentary"
+            "Anime"
         ],
-        "version": 4,
-        "internalName": "BelgeselX",
-        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/BelgeselX.cs3",
-        "name": "BelgeselX"
+        "version": 1,
+        "internalName": "AsyaAnimeleri",
+        "description": "AsyaAnimeleri.top",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaAnimeleri.cs3",
+        "name": "AsyaAnimeleri"
     },
 ]
