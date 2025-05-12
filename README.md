@@ -1,14 +1,17 @@
 # Turkuaz'In Cloudstream Türkçe Eklentileri
 
-Deponun kısa kodu: **TurkuazTV**
+Deponun kısa kodu: **TurkuazTVBeta**
 
 <img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/assets/persona-3-makoto-3393384685hh.gif" width="100%" />
 
 
 
-[Depoyu otomatik yüklemek için tıklayın](https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/repo.json))
+1. **[cloudstream/pre-release](https://github.com/recloudstream/cloudstream/releases/tag/pre-release)** _Adresinden güncel APK dosyasını indirip kurun._
+2. **Uygulamanın yüklü olduğu cihazda** _[depoyu otomatik yüklemek için tıklayın](https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/repo.json)_
+  - **veya**
+  - `Depo ekle` _butonuyla **manuel** ekleme yapmak isteyen arkadaşlar için_ `TurkuazTvBeta` _**kısa kod**u mevcuttur._ `Depo ismi` _kısmını boş bırakarak_ `Depo URL'si` _kısmına_ `TurkuazTvBeta` yazarak `Depo ekle` _demeniz yeterli.._
 
-Eğer otomatik yüklemede sorun yaşıyorsanız, deponun kısa kodunu cloudstream'deki eklenti ekleme yerine yazınız. Böylece otomatik olarak eklenti kataloğumuza erişebileceksiniz.
+
 
 Cloudstream için artık eklenti aramanıza gerek yok. Türkçe içeriklerin tek adresi burası. Cloudstream'i android televizyonlarınıza, telefonlarınıza ve tabletlerinize kurarak reklamsız içerik izlemenin keyfine varabilirsiniz. Canlı maç, televizyon yayınlarımız da mevcuttur. Tabiki de hiçbirini biz yayınlamıyoruz eklentiler sadece extractor olarak çalışıyor. 
 
@@ -55,13 +58,6 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/refs/heads/main/assets/asyawatch-logo.png" alt="AsyaWatch" width="40" /><br>AsyaWatch</p> | Popüler Asya içerikleri ve diziler | Aktif |
 | <p align="center"><img src="https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/assets/asyaanimeleri-logo.png?raw=true" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
 
-## Yol Haritası
-Planladığım ve yapmak istediğim şeyler:
-1. Bütün eklentilerdeki canlı yayınları ve kaynaklarını tek eklenti altında toplamak. Mesela RecTV, İnatTv bunların canlı yayın kısımlarında bulunan kanalları tek çatı altında toplamak istiyorum. Örneğin Trt 1 açmak istediğimde yalnızca 1 tane kanal olacak ve o kanalın altına İnattır, RecTv'dir Trt 1 canlı yayınları kaynak olarak gelecek. Böylece canlı yayınlar için bir tanesinde çalışmayan yayın, diğeri için de denenebilecek. Birden fazla kaynak deneyerek yayınların her zaman açılmasını sağlamak istiyorum.
-2. Kanal 7 dizilerini eklenti haline getirmek istiyorum. Bunun dışında daha yapmadığım kanal varsa onları da eklenti haline getirmek istiyorum.
-
-## Destek Ol
-Tron: TT6fojKK3rvDAWBNAdKFfBAwW4LEeKDEWX
 
 ## Not
 Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
