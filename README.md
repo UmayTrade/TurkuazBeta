@@ -2,7 +2,7 @@
 
 Deponun kısa kodu: **TurkuazTVBeta**
 
-<img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/assets/persona-3-makoto-3393384685hh.gif" width="100%" />
+<img src="https://github.com/UmayTrade/TurkuazBeta/blob/main/turkuaz-logo-web.png" width="100%" />
 
 
 
