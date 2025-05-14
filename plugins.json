@@ -234,22 +234,22 @@
         "name": "YerelProgramlar"
     },
   {
-        "iconUrl": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=trgoalsgiris.xyz/&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 0,
+        "repositoryUrl": "https://sakultah.org/a",
+        "status": 1,
         "language": "tr",
         "authors": [
-            "Makoto Tokioki"
+            "Sakultah"
         ],
         "tvTypes": [
             "Live"
         ],
         "version": 5,
-        "internalName": "SSportPlus",
-        "description": "SSport+ canlı yayınları ve arşiv içerikleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SSportPlus.cs3",
-        "name": "SSportPlus"
+        "internalName": "TRGoals",
+        "description": "TRGoals canlı yayınları ve arşiv içerikleri",
+        "url": "https://sakultah.org/a/TRGoals.cs3",
+        "name": "TRGoals"
     },
   {
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
