@@ -1,4 +1,4 @@
-# Turkuaz'In Cloudstream Türkçe Eklentileri
+# Turkuaz Cloudstream Türkçe Eklentileri
 
 Deponun kısa kodu: **TurkuazTVBeta**
 
@@ -19,24 +19,7 @@ Cloudstream kullanırken en büyük sorun içerik kaynaklarının sistemlerini d
 
 Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için bile issue açabilirsiniz. Repository'e yıldız atıp, sohbet odamıza katılmayı unutmayınız.
 
-## Son Güncellemeler
-3 Mayıs - AsyaAnimeleri.top eklentilere eklendi. Artık dongualara daha rahat erişim sağlanabilecek.
 
-2 Mayıs - AsyaWatch.com eklentilere eklendi.
-
-27 Nisan - Tabii hesap sorunları nedeniyle kapatıldı. (Çok fazla cihaz üzerinden kullanıldığı için hesaplar banlanıyor. Durum bu olunca ne zamana kadar kapalı olur bilemem. Bundan sonra amacım biraz daha güvenli olan ve hesap gerektirmeyen kaynakların eklentilerini oluşturmak.)
-
-26 Nisan - Tabii küçük hata düzeltmeleri. (Kapatıldı)
-
-26 Nisan - SSportPlus eklentisi yayınlandı.
-
-24 Nisan - YerelProgramlar eklentisi oluşturuldu.
-
-24 Nisan - İçerik eksikliği olduğundan dolayı Dizilla eklentisi yüklenmiştir. (Küçük hataları giderildi)
-
-22 Nisan - TorrentFilm eklentisi yayınlandı. Artık 4K film izleyebilirsiniz.
-
-21 Nisan - WebDramaTurkey eklentisi yayınlanmıştır. Artık asya içeriklerine ulaşmak kolaylaştı.
 
 ## 📦 Kullanıma Hazır Eklentiler
 | Eklenti | İçerik | Durum |
@@ -59,5 +42,4 @@ Eğer bir sorununuz olursa lütfen issue açın. Hatta gelip merhaba demek için
 | <p align="center"><img src="https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/blob/main/assets/asyaanimeleri-logo.png?raw=true" alt="AsyaAnimeleri" width="40" /><br>AsyaAnimeleri</p> | Donghuaların bulunduğu anime kaynağımız | Aktif |
 
 
-## Not
-Yurtdışından eklenti içerikleri yüklenmeyebilir. Eklediğim kaynakların bazıları yurtdışı IP'lerine hizmet vermemektedir. O yüzden bir içeriği yüklerken hata alıyorsanız öncelikle VPN açık mı diye kontrol edin. İyi seyirler.
+
