@@ -220,25 +220,23 @@
         "name": "Puhu"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 21440,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 26399,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
-            "JustRelaxable",
-            "Kraptor"
+            "nikyokki"
         ],
         "tvTypes": [
-            "Documentary"
+            "Movie"
         ],
-        "version": 6,
-        "internalName": "BelgeselX",
-        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/BelgeselX.cs3",
-        "name": "BelgeselX"
+        "version": 1,
+        "internalName": "XPrime",
+        "description": "XPrime.Tv",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/XPrime.cs3",
+        "name": "XPrime"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
