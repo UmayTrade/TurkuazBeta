@@ -204,23 +204,23 @@
         "name": "DiziPal"
     },
       {
-        "iconUrl": "view-source:https://dizimore.com/wp-content/uploads/2024/03/morefav.png",
+        "iconUrl": "https://filmizle.cx/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 17239,
+        "fileSize": 21950,
         "status": 1,
         "language": "tr",
         "authors": [
             "kraptor"
         ],
         "tvTypes": [
-            "TvSeries"
+            "Movie"
         ],
         "version": 1,
-        "internalName": "DiziMore",
-        "description": "Sadece Dizi izlemenin Tek Adresin yerli yabanc\u0131 dizi izlemek i\u00e7in dizimore.com",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziMore.cs3",
-        "name": "DiziMore"
+        "internalName": "FilmIzleCx",
+        "description": "Filmizle ile Full HD Film izle. Yerli ve yabanc\u0131 filmleri T\u00fcrk\u00e7e dublaj veya Alt yaz\u0131l\u0131 se\u00e7ene\u011fiyle kesintisiz ve sorunsuz en h\u0131zl\u0131 film sitesi.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzleCx.cs3",
+        "name": "FilmIzleCx"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
