@@ -100,24 +100,23 @@
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
         "name": "SineWix"
     },
-  {
-        "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
+      {
+        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "fileSize": 13525,
         "status": 1,
         "language": "tr",
         "authors": [
             "Makoto Tokioki"
         ],
         "tvTypes": [
-            "Tv Series"
+            "Movie,TvSeries"
         ],
-        "version": 14,
-        "internalName": "YerelDiziler",
-        "description": "Bu eklentide yerel dizileri g\u00fcncel \u015fekilde bulabilirsiniz",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelDiziler.cs3",
-        "name": "YerelDiziler"
+        "version": 1,
+        "internalName": "Puhu",
+        "description": "Puhu",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
+        "name": "Puhu"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powerdizi/powerdizi.png",
