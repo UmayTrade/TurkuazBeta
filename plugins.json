@@ -220,24 +220,23 @@
         "name": "Puhu"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+        "iconUrl": "https://www.tlctv.com.tr/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 20606,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 13259,
         "status": 1,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq"
+            "nikyokki"
         ],
         "tvTypes": [
-            "Live"
+            "TvSeries"
         ],
         "version": 1,
-        "internalName": "YTCanliTV",
-        "description": "Youtube \u00fczerinden canl\u0131 yay\u0131n yapan kanallar\u0131 izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTCanliTV.cs3",
-        "name": "YTCanliTV"
+        "internalName": "TLC",
+        "description": "TLC TV dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. TLC TV dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TLC.cs3",
+        "name": "TLC"
     },
     {
         "iconUrl": "https://www.dmax.com.tr/favicon.ico",
