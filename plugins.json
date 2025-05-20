@@ -22,24 +22,24 @@
         "name": "AniworldMC"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
+        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 22051,
-        "status": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 3,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq"
+            "Makoto Tokioki"
         ],
         "tvTypes": [
-            "Live"
+            "Movie",
+            "TvSeries",
+            "Anime"
         ],
-        "version": 3,
-        "internalName": "DaddyLive",
-        "description": "DaddyLive Spor kanallar\u0131 ve m\u00fcmk\u00fcn oldu\u011fucna VPN olmadan izletmek i\u00e7in \ud83d\udcaa\ud83c\udffb\ud83d\udca5",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLive.cs3",
-        "name": "DaddyLive"
+        "version": 16,
+        "internalName": "SineWix",
+        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
+        "name": "SineWix"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
@@ -83,47 +83,44 @@
         "name": "DiziFun"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
+        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 24947,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "status": 1,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq"
+            "Makoto Tokioki"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Movie,TvSeries"
         ],
         "version": 1,
-        "internalName": "KickTR",
-        "description": "Kick'teki T\u00fcrk\u00e7e canl\u0131 yay\u0131nlar ve pop\u00fcler yay\u0131nc\u0131lar\u0131 canl\u0131 izleyin. Aray\u0131n, bulun  ve izlemeye devam edin.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/KickTR.cs3",
-        "name": "KickTR"
+        "internalName": "Puhu",
+        "description": "Puhu",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
+        "name": "Puhu"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "iconUrl": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzI2ODU2MTY1XzIwOTUzMV8yMDIzMTIxMzExMjMxODk0OA/icon.webp?w=280&fakeurl=1&type=.webp",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 18907,
-        "status": 1,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 27122,
+        "status": 3,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
-            "GitLatte",
-            "patr0nq",
-            "nikyokki"
+            "JustRelaxable",
+            "keyiflerolsun"
         ],
         "tvTypes": [
+            "Movie",
+            "TvSeries",
             "Live"
         ],
-        "version": 1,
-        "internalName": "mywayTV",
-        "description": "Sinetech.tr Forum myway canl\u0131 tv listesi",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/mywayTV.cs3",
-        "name": "mywayTV"
+        "version": 14,
+        "internalName": "InatBox",
+        "description": "\u0130natBox cloudstream eklentisidir. Sevdi\u011finiz yay\u0131n platformlar\u0131n\u0131 ve canl\u0131 ma\u00e7lar\u0131 burada bulabilirsiniz.",
+        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/InatBox.cs3",
+        "name": "InatBox"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powerdizi/powerdizi.png",
