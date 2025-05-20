@@ -22,24 +22,24 @@
         "name": "AniworldMC"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
+        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 22051,
-        "status": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 3,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq"
+            "Makoto Tokioki"
         ],
         "tvTypes": [
-            "Live"
+            "Movie",
+            "TvSeries",
+            "Anime"
         ],
-        "version": 3,
-        "internalName": "DaddyLive",
-        "description": "DaddyLive Spor kanallar\u0131 ve m\u00fcmk\u00fcn oldu\u011fucna VPN olmadan izletmek i\u00e7in \ud83d\udcaa\ud83c\udffb\ud83d\udca5",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLive.cs3",
-        "name": "DaddyLive"
+        "version": 16,
+        "internalName": "SineWix",
+        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
+        "name": "SineWix"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
