@@ -1,25 +1,24 @@
 [
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 16969,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 21814,
         "status": 1,
-        "language": "de",
+        "language": "tr",
         "authors": [
-            "Hexated",
-            "GitLatte"
+            "keyiflerolsun",
+            "inatchii",
+            "JustRelaxable"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
+            "Anime"
         ],
-        "version": 1,
-        "internalName": "AniworldMC",
-        "description": "Aniworld plugin from Hexated Repository from Github.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/AniworldMC.cs3",
-        "name": "AniworldMC"
+        "version": 10,
+        "internalName": "AnimeciX",
+        "description": "AnimeciX, animeleri ke\u015ffedebilece\u011finiz ve animeler hakk\u0131nda her \u015feyi \u00f6\u011frenebilece\u011finiz bir payla\u015f\u0131m platformudur.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AnimeciX.cs3",
+        "name": "AnimeciX"
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
