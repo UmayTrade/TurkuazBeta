@@ -101,24 +101,26 @@
         "name": "Puhu"
     },
     {
-        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 3,
+        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "fileSize": 18907,
+        "status": 1,
         "language": "tr",
         "authors": [
-            "Makoto Tokioki"
+            "keyiflerolsun",
+            "GitLatte",
+            "patr0nq",
+            "nikyokki"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
+            "Live"
         ],
-        "version": 16,
-        "internalName": "SineWix",
-        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
-        "name": "SineWix"
+        "version": 1,
+        "internalName": "mywayTV",
+        "description": "Sinetech.tr Forum myway canl\u0131 tv listesi",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/mywayTV.cs3",
+        "name": "mywayTV"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powerdizi/powerdizi.png",
