@@ -204,24 +204,23 @@
         "name": "DiziPal"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=webdramaturkey.org/&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 31917,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 20020,
         "status": 1,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq"
+            "keyiflerolsun"
         ],
         "tvTypes": [
-            "Movie, Podcast, AsianDrama, Anime"
+            "Movie"
         ],
-        "version": 1,
-        "internalName": "WebDramaTurkey",
-        "description": "Kore, \u00c7in ve Japon yap\u0131m\u0131 filmleri Web Drama Turkey \u00fczerinden T\u00fcrk\u00e7e altyaz\u0131l\u0131 olarak izleyebilirsiniz. Kore filmi izle, \u00c7in filmi izle, Asya filmleri izle.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey.cs3",
-        "name": "WebDramaTurkey"
+        "version": 3,
+        "internalName": "UgurFilm",
+        "description": "Yabanc\u0131 film izle, T\u00fcrk\u00e7e dublaj ve T\u00fcrk\u00e7e altyaz\u0131l\u0131 film se\u00e7enekleriyle 720p ve 1080p HD kalitesinde film izle - U\u011fur Film full hd film izle.",
+        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/UgurFilm.cs3",
+        "name": "UgurFilm"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
