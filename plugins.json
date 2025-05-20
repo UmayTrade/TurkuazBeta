@@ -1,25 +1,22 @@
 [
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 16969,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 14326,
         "status": 1,
-        "language": "de",
+        "language": "tr",
         "authors": [
-            "Hexated",
-            "GitLatte"
+            "keyiflerolsun"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
+            "TvSeries"
         ],
-        "version": 1,
-        "internalName": "AniworldMC",
-        "description": "Aniworld plugin from Hexated Repository from Github.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/AniworldMC.cs3",
-        "name": "AniworldMC"
+        "version": 9,
+        "internalName": "DiziYou",
+        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYou.cs3",
+        "name": "DiziYou"
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
