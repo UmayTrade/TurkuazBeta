@@ -225,25 +225,24 @@
         "name": "WebDramaTurkey"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 20295,
+        "fileSize": 14240,
         "status": 1,
         "language": "tr",
         "authors": [
             "keyiflerolsun",
-            "JustRelaxable",
             "nikyokki"
         ],
         "tvTypes": [
-            "Documentary"
+            "TvSeries"
         ],
-        "version": 6,
-        "internalName": "BelgeselX",
-        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/BelgeselX.cs3",
-        "name": "BelgeselX"
+        "version": 9,
+        "internalName": "DiziYou",
+        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziYou.cs3",
+        "name": "DiziYou"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
