@@ -242,8 +242,8 @@
     {
         "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm5ld2xlYWYuYXBwLmFuZHJvaWQudmljdG9yX2ljb25fMTY4NDc1Nzk3Nl8wOTU/icon.webp?w=280&fakeurl=1&type=.webp",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 29155,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 20130,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -251,12 +251,12 @@
             "patr0nq"
         ],
         "tvTypes": [
-            "Others, Live"
+            "Movie, Live"
         ],
-        "version": 1,
-        "internalName": "YTEglence",
-        "description": "Youtube \u00fczerindeki kullan\u0131c\u0131 tercihleriyle eklenen e\u011flence kanallar\u0131n\u0131n i\u00e7eriklerini izleyebilirsiniz.",
+        "version": 65,
+        "internalName": "RecTV",
+        "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
         "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTEglence.cs3",
-        "name": "YTEglence"
+        "name": "RecTV"
     }
 ]
