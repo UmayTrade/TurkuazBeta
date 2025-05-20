@@ -220,23 +220,23 @@
         "name": "Puhu"
     },
     {
-        "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 14347,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 26718,
         "status": 1,
         "language": "tr",
         "authors": [
-            "kraptor"
+            "nikyokki"
         ],
         "tvTypes": [
-            "Anime"
+            "TvSeries"
         ],
-        "version": 1,
-        "internalName": "AsyaAnimeleri",
-        "description": "Asya Animeleri \u2013 Anime izle | Donghua izle | Animeler | Donghuantr | T\u00fcrkanime | Donghua Anime, T\u00fcrk\u00e7e Altyaz\u0131l\u0131 Anime izle , T\u00fcrk\u00e7e Anime, animeizle.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/AsyaAnimeleri.cs3",
-        "name": "AsyaAnimeleri"
+        "version": 2,
+        "internalName": "TvDiziler",
+        "description": "\u00dccretsiz yerli dizi izleme sitesi en pop\u00fcler dizileri tek par\u00e7a hd kalitesiyle ve reklams\u0131z bedava olarak buradan tv dizileri izleyin.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TvDiziler.cs3",
+        "name": "TvDiziler"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
