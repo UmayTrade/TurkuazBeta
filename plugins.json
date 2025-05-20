@@ -249,21 +249,21 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 26228,
         "status": 1,
         "language": "tr",
         "authors": [
             "keyiflerolsun",
-            "Makoto Tokioki"
+            "nikyokki"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Anime"
+            "TvSeries"
         ],
-        "version": 8,
+        "version": 19,
         "internalName": "Dizilla",
         "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Dizilla.cs3",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizilla.cs3",
         "name": "Dizilla"
     },
 ]
