@@ -165,25 +165,24 @@
         "name": "powerSinema"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 16894,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 21976,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
-            "muratcesmecioglu"
+            "GitLatte",
+            "patr0nq"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Live"
         ],
-        "version": 28,
-        "internalName": "DiziPal",
-        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziPal.cs3",
-        "name": "DiziPal"
+        "version": 2,
+        "internalName": "TOGrup",
+        "description": "TO Grubu spor kanallar\u0131n\u0131 i\u00e7erir: Vavoo.to, Huhu.to, Kool.to, Oha.to",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/TOGrup.cs3",
+        "name": "TOGrup"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/tvbahcesi/bahcesitv.png",
@@ -246,23 +245,24 @@
         "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTCanliTV.cs3",
         "name": "YTCanliTV"
     },
-     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=trgoalsgiris.xyz/&sz=%size%",
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 18253,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 29155,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Sakultah"
+            "GitLatte",
+            "patr0nq"
         ],
         "tvTypes": [
-            "Live"
+            "Others, Live"
         ],
-        "version": 5,
-        "internalName": "TRGoals",
-        "description": "TRGoals",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TRGoals.cs3",
-        "name": "TRGoals"
-    },
+        "version": 1,
+        "internalName": "YTEglence",
+        "description": "Youtube \u00fczerindeki kullan\u0131c\u0131 tercihleriyle eklenen e\u011flence kanallar\u0131n\u0131n i\u00e7eriklerini izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTEglence.cs3",
+        "name": "YTEglence"
+    }
 ]
