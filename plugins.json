@@ -219,44 +219,46 @@
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
         "name": "Puhu"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 26718,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 2,
-        "internalName": "TvDiziler",
-        "description": "\u00dccretsiz yerli dizi izleme sitesi en pop\u00fcler dizileri tek par\u00e7a hd kalitesiyle ve reklams\u0131z bedava olarak buradan tv dizileri izleyin.",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TvDiziler.cs3",
-        "name": "TvDiziler"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 21440,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "JustRelaxable",
-            "Kraptor"
-        ],
-        "tvTypes": [
-            "Documentary"
-        ],
-        "version": 6,
-        "internalName": "BelgeselX",
-        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/BelgeselX.cs3",
-        "name": "BelgeselX"
-    },
+  {
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkluYXRfVFZfQm94X0Fwa19BX2xhcmdlX2NvbGxlY3Rpb25fb2ZfbW92aWVzX1RWX3Nob3dzX2FuZF93ZWJfc2VyaWUucHJ6ZXdvZG5pa19pY29uXzE2Mzc4NDg5NTVfMDYw/icon.webp?w=320&fakeurl=1&type=.webp",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "JustRelaxable",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "version": 15,
+    "internalName": "InatBox",
+    "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
+    "name": "InatBox"
+  },
+  {
+    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkluYXRfVFZfQm94X0Fwa19BX2xhcmdlX2NvbGxlY3Rpb25fb2ZfbW92aWVzX1RWX3Nob3dzX2FuZF93ZWJfc2VyaWUucHJ6ZXdvZG5pa19pY29uXzE2Mzc4NDg5NTVfMDYw/icon.webp?w=320&fakeurl=1&type=.webp",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "JustRelaxable",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "version": 15,
+    "internalName": "InatBox",
+    "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
+    "name": "InatBox"
+  },
 ]
