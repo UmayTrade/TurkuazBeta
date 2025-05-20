@@ -101,26 +101,26 @@
         "name": "Puhu"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "iconUrl": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzI2ODU2MTY1XzIwOTUzMV8yMDIzMTIxMzExMjMxODk0OA/icon.webp?w=280&fakeurl=1&type=.webp",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 18907,
-        "status": 1,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 27122,
+        "status": 3,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
-            "GitLatte",
-            "patr0nq",
-            "nikyokki"
+            "JustRelaxable",
+            "keyiflerolsun"
         ],
         "tvTypes": [
+            "Movie",
+            "TvSeries",
             "Live"
         ],
-        "version": 1,
-        "internalName": "mywayTV",
-        "description": "Sinetech.tr Forum myway canl\u0131 tv listesi",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/mywayTV.cs3",
-        "name": "mywayTV"
+        "version": 14,
+        "internalName": "InatBox",
+        "description": "\u0130natBox cloudstream eklentisidir. Sevdi\u011finiz yay\u0131n platformlar\u0131n\u0131 ve canl\u0131 ma\u00e7lar\u0131 burada bulabilirsiniz.",
+        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/InatBox.cs3",
+        "name": "InatBox"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powerdizi/powerdizi.png",
