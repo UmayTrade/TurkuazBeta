@@ -239,24 +239,22 @@
         "name": "XPrime"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 18366,
+        "fileSize": 18495,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Kraptor123",
-            "Adippe",
             "keyiflerolsun"
         ],
         "tvTypes": [
-            "Live"
+            "Cartoon"
         ],
-        "version": 2,
-        "internalName": "CanliTelevizyon",
-        "description": "Canl\u0131 Televiyon Kanallari",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CanliTelevizyon.cs3",
-        "name": "CanliTelevizyon"
+        "version": 6,
+        "internalName": "CizgiMax",
+        "description": "\u00c7izgiMax ile \u00c7izgi Film izlemek art\u0131k daha kolay, donmadan full hd ve reklams\u0131z bir sitedir, i\u00e7erisinde 700 den fazla \u00e7izgi film olan, Bu site bu i\u015fi profesyonelce yap\u0131yor.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CizgiMax.cs3",
+        "name": "CizgiMax"
     },
 ]
