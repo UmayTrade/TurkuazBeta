@@ -244,27 +244,24 @@
         "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTCanliTV.cs3",
         "name": "YTCanliTV"
     },
-    {
-    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmZvb3RiYWxsYXBwcy5yZWN0dl9pY29uXzE2NzU3MDQwMjBfMDEz/icon.webp?w=280&fakeurl=1&type=.webp",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "keyiflerolsun",
-      "yusiqo",
-      "JustRelaxable"
-    ],
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "RecTV",
-    "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
-    "name": "RecTV"
-  },
+      {
+        "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "fileSize": 13525,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Tv Series"
+        ],
+        "version": 14,
+        "internalName": "YerelDiziler",
+        "description": "Bu eklentide yerel dizileri g\u00fcncel \u015fekilde bulabilirsiniz",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelDiziler.cs3",
+        "name": "YerelDiziler"
+    },
     }
 ]
