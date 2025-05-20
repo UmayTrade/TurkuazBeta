@@ -185,25 +185,24 @@
         "name": "TOGrup"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/tvbahcesi/bahcesitv.png",
+        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
-        "fileSize": 19505,
-        "status": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 3,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
+            "Makoto Tokioki"
         ],
         "tvTypes": [
-            "Live"
+            "Movie",
+            "TvSeries",
+            "Anime"
         ],
-        "version": 1,
-        "internalName": "TvBahcesi",
-        "description": "TvGarden televizyon listesi. @keyiflerolsun Canl\u0131 TV eklentisinden yararlan\u0131lm\u0131\u015ft\u0131r.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/TvBahcesi.cs3",
-        "name": "TvBahcesi"
+        "version": 16,
+        "internalName": "SineWix",
+        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
+        "name": "SineWix"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webdramaturkey.org/&sz=%size%",
