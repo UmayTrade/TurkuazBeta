@@ -239,22 +239,24 @@
         "name": "XPrime"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 28066,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 18366,
         "status": 1,
         "language": "tr",
         "authors": [
+            "Kraptor123",
+            "Adippe",
             "keyiflerolsun"
         ],
         "tvTypes": [
-            "Movie"
+            "Live"
         ],
-        "version": 4,
-        "internalName": "FullHDFilmizlesene",
-        "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
-        "name": "FullHDFilmizlesene"
+        "version": 2,
+        "internalName": "CanliTelevizyon",
+        "description": "Canl\u0131 Televiyon Kanallari",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CanliTelevizyon.cs3",
+        "name": "CanliTelevizyon"
     },
 ]
