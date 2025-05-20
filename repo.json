@@ -1,6 +1,6 @@
 {
-    "name": "Latte - Sinetech.TR",
-    "description": "Sinetech.tr Özel Cloudstream Deposu",
+    "name": "Saklimavi - TurkuazTV",
+    "description": "TurkuazTV Özel Cloudstream Deposu",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/plugins.json"
