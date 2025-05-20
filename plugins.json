@@ -220,41 +220,43 @@
         "name": "Puhu"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=xprime.tv&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 26399,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 20606,
         "status": 1,
         "language": "tr",
         "authors": [
-            "nikyokki"
+            "GitLatte",
+            "patr0nq"
         ],
         "tvTypes": [
-            "Movie"
+            "Live"
         ],
         "version": 1,
-        "internalName": "XPrime",
-        "description": "XPrime.Tv",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/XPrime.cs3",
-        "name": "XPrime"
+        "internalName": "YTCanliTV",
+        "description": "Youtube \u00fczerinden canl\u0131 yay\u0131n yapan kanallar\u0131 izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTCanliTV.cs3",
+        "name": "YTCanliTV"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 18495,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 29155,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "GitLatte",
+            "patr0nq"
         ],
         "tvTypes": [
-            "Cartoon"
+            "Others, Live"
         ],
-        "version": 6,
-        "internalName": "CizgiMax",
-        "description": "\u00c7izgiMax ile \u00c7izgi Film izlemek art\u0131k daha kolay, donmadan full hd ve reklams\u0131z bir sitedir, i\u00e7erisinde 700 den fazla \u00e7izgi film olan, Bu site bu i\u015fi profesyonelce yap\u0131yor.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/CizgiMax.cs3",
-        "name": "CizgiMax"
-    },
+        "version": 1,
+        "internalName": "YTEglence",
+        "description": "Youtube \u00fczerindeki kullan\u0131c\u0131 tercihleriyle eklenen e\u011flence kanallar\u0131n\u0131n i\u00e7eriklerini izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTEglence.cs3",
+        "name": "YTEglence"
+    }
 ]
