@@ -240,23 +240,22 @@
         "name": "YTCanliTV"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 29155,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 28066,
         "status": 1,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq"
+            "keyiflerolsun"
         ],
         "tvTypes": [
-            "Others, Live"
+            "Movie"
         ],
-        "version": 1,
-        "internalName": "YTEglence",
-        "description": "Youtube \u00fczerindeki kullan\u0131c\u0131 tercihleriyle eklenen e\u011flence kanallar\u0131n\u0131n i\u00e7eriklerini izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTEglence.cs3",
-        "name": "YTEglence"
-    }
+        "version": 4,
+        "internalName": "FullHDFilmizlesene",
+        "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
+        "name": "FullHDFilmizlesene"
+    },
 ]
