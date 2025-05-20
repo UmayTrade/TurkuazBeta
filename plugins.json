@@ -203,24 +203,24 @@
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
         "name": "DiziPal"
     },
-      {
-        "iconUrl": "https://filmizle.cx/favicon.ico",
+       {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 21950,
+        "fileSize": 18303,
         "status": 1,
         "language": "tr",
         "authors": [
-            "kraptor"
+            "nikyokki"
         ],
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
-        "internalName": "FilmIzleCx",
-        "description": "Filmizle ile Full HD Film izle. Yerli ve yabanc\u0131 filmleri T\u00fcrk\u00e7e dublaj veya Alt yaz\u0131l\u0131 se\u00e7ene\u011fiyle kesintisiz ve sorunsuz en h\u0131zl\u0131 film sitesi.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmIzleCx.cs3",
-        "name": "FilmIzleCx"
+        "version": 3,
+        "internalName": "FilmKovasi",
+        "description": "Film Kovasi \u26a1 ile en g\u00fcncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayr\u0131cal\u0131\u011f\u0131yla Film Kovas\u0131'n\u0131n Tad\u0131n\u0131 \u00c7\u0131kar\u0131n.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/FilmKovasi.cs3",
+        "name": "FilmKovasi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
