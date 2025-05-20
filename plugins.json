@@ -219,46 +219,44 @@
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
         "name": "Puhu"
     },
-  {
-    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkluYXRfVFZfQm94X0Fwa19BX2xhcmdlX2NvbGxlY3Rpb25fb2ZfbW92aWVzX1RWX3Nob3dzX2FuZF93ZWJfc2VyaWUucHJ6ZXdvZG5pa19pY29uXzE2Mzc4NDg5NTVfMDYw/icon.webp?w=320&fakeurl=1&type=.webp",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "JustRelaxable",
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "version": 15,
-    "internalName": "InatBox",
-    "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
-    "name": "InatBox"
-  },
-  {
-    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkluYXRfVFZfQm94X0Fwa19BX2xhcmdlX2NvbGxlY3Rpb25fb2ZfbW92aWVzX1RWX3Nob3dzX2FuZF93ZWJfc2VyaWUucHJ6ZXdvZG5pa19pY29uXzE2Mzc4NDg5NTVfMDYw/icon.webp?w=320&fakeurl=1&type=.webp",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "JustRelaxable",
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "version": 15,
-    "internalName": "InatBox",
-    "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
-    "name": "InatBox"
-  },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 20606,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "YTCanliTV",
+        "description": "Youtube \u00fczerinden canl\u0131 yay\u0131n yapan kanallar\u0131 izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTCanliTV.cs3",
+        "name": "YTCanliTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 29155,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "tvTypes": [
+            "Others, Live"
+        ],
+        "version": 1,
+        "internalName": "YTEglence",
+        "description": "Youtube \u00fczerindeki kullan\u0131c\u0131 tercihleriyle eklenen e\u011flence kanallar\u0131n\u0131n i\u00e7eriklerini izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTEglence.cs3",
+        "name": "YTEglence"
+    }
 ]
