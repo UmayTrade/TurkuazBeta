@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 16969,
         "status": 1,
         "language": "de",
@@ -24,7 +24,7 @@
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 22051,
         "status": 1,
         "language": "tr",
@@ -44,7 +44,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 22771,
         "status": 1,
         "language": "tr",
@@ -64,7 +64,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizifun2.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 31015,
         "status": 1,
         "language": "tr",
@@ -83,27 +83,30 @@
         "name": "DiziFun"
     },
     {
-        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 24947,
         "status": 1,
         "language": "tr",
         "authors": [
-            "Makoto Tokioki"
+            "GitLatte",
+            "patr0nq"
         ],
         "tvTypes": [
-            "Movie,TvSeries"
+            "TvSeries",
+            "Movie"
         ],
         "version": 1,
-        "internalName": "Puhu",
-        "description": "Puhu",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
-        "name": "Puhu"
+        "internalName": "KickTR",
+        "description": "Kick'teki T\u00fcrk\u00e7e canl\u0131 yay\u0131nlar ve pop\u00fcler yay\u0131nc\u0131lar\u0131 canl\u0131 izleyin. Aray\u0131n, bulun  ve izlemeye devam edin.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/KickTR.cs3",
+        "name": "KickTR"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 18907,
         "status": 1,
         "language": "tr",
@@ -125,7 +128,7 @@
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powerdizi/powerdizi.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 33263,
         "status": 1,
         "language": "tr",
@@ -146,7 +149,7 @@
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 28347,
         "status": 1,
         "language": "tr",
@@ -167,7 +170,7 @@
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 21976,
         "status": 1,
         "language": "tr",
@@ -185,30 +188,30 @@
         "name": "TOGrup"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/tvbahcesi/bahcesitv.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
-        "fileSize": 17243,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 19505,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
-            "muratcesmecioglu"
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Live"
         ],
-        "version": 30,
-        "internalName": "DiziPal",
-        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "url": "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/DiziPal.cs3",
-        "name": "DiziPal"
+        "version": 1,
+        "internalName": "TvBahcesi",
+        "description": "TvGarden televizyon listesi. @keyiflerolsun Canl\u0131 TV eklentisinden yararlan\u0131lm\u0131\u015ft\u0131r.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/TvBahcesi.cs3",
+        "name": "TvBahcesi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webdramaturkey.org/&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
         "fileSize": 31917,
         "status": 1,
         "language": "tr",
@@ -226,46 +229,43 @@
         "name": "WebDramaTurkey"
     },
     {
-    "iconUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frectv.org.tr%2Fwp-content%2Fuploads%2F2024%2F11%2Frectv-modified.webp&f=1&nofb=1&ipt=243a15ba76473d64233d0a6be6c338aa6a15f4ced36db7b11c9a4f924b036e9d",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "keyiflerolsun",
-      "yusiqo",
-      "JustRelaxable"
-    ],
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "RecTV",
-    "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/RecTV.cs3",
-    "name": "RecTV"
-  },
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 20606,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "YTCanliTV",
+        "description": "Youtube \u00fczerinden canl\u0131 yay\u0131n yapan kanallar\u0131 izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTCanliTV.cs3",
+        "name": "YTCanliTV"
+    },
     {
-    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "JustRelaxable",
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "version": 15,
-    "internalName": "InatBox",
-    "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/InatBox.cs3",
-    "name": "InatBox"
-  },
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 29155,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "tvTypes": [
+            "Others, Live"
+        ],
+        "version": 1,
+        "internalName": "YTEglence",
+        "description": "Youtube \u00fczerindeki kullan\u0131c\u0131 tercihleriyle eklenen e\u011flence kanallar\u0131n\u0131n i\u00e7eriklerini izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTEglence.cs3",
+        "name": "YTEglence"
+    }
 ]
