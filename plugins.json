@@ -187,7 +187,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "repositoryUrl": "https://github.com/UmayTrade/TurkuazBeta",
         "fileSize": 17243,
         "status": 1,
         "language": "tr",
@@ -202,7 +202,7 @@
         "version": 30,
         "internalName": "DiziPal",
         "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/DiziPal.cs3",
         "name": "DiziPal"
     },
     {
