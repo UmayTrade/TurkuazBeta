@@ -100,8 +100,8 @@
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
         "name": "SineWix"
     },
-      {
-        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "status": 1,
@@ -110,13 +110,14 @@
             "Makoto Tokioki"
         ],
         "tvTypes": [
-            "Movie,TvSeries"
+            "Movie",
+            "Torrent"
         ],
-        "version": 1,
-        "internalName": "Puhu",
-        "description": "Puhu",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
-        "name": "Puhu"
+        "version": 2,
+        "internalName": "TorrentFilm",
+        "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/TorrentFilm.cs3",
+        "name": "TorrentFilm"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powerdizi/powerdizi.png",
