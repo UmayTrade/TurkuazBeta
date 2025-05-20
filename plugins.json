@@ -1,22 +1,25 @@
 [
-     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 14326,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 16969,
         "status": 1,
-        "language": "tr",
+        "language": "de",
         "authors": [
-            "keyiflerolsun"
+            "Hexated",
+            "GitLatte"
         ],
         "tvTypes": [
-            "TvSeries"
+            "AnimeMovie",
+            "Anime",
+            "OVA"
         ],
-        "version": 9,
-        "internalName": "DiziYou",
-        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYou.cs3",
-        "name": "DiziYou"
+        "version": 1,
+        "internalName": "AniworldMC",
+        "description": "Aniworld plugin from Hexated Repository from Github.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/AniworldMC.cs3",
+        "name": "AniworldMC"
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
@@ -241,24 +244,24 @@
         "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTCanliTV.cs3",
         "name": "YTCanliTV"
     },
-       {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 19205,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 29155,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "GitLatte",
+            "patr0nq"
         ],
         "tvTypes": [
-            "Movie",
-            "TvSeries"
+            "Others, Live"
         ],
-        "version": 8,
-        "internalName": "KultFilmler",
-        "description": "K\u00fclt Filmler \u00f6zenle en iyi filmleri derler ve iyi bir altyaz\u0131l\u0131 film izleme deneyimi sunmay\u0131 ama\u00e7lar",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/KultFilmler.cs3",
-        "name": "KultFilmler"
-    },
+        "version": 1,
+        "internalName": "YTEglence",
+        "description": "Youtube \u00fczerindeki kullan\u0131c\u0131 tercihleriyle eklenen e\u011flence kanallar\u0131n\u0131n i\u00e7eriklerini izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTEglence.cs3",
+        "name": "YTEglence"
+    }
 ]
