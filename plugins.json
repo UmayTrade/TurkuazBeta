@@ -83,25 +83,22 @@
         "name": "DiziFun"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
+        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 24947,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "status": 1,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq"
+            "Makoto Tokioki"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Movie,TvSeries"
         ],
         "version": 1,
-        "internalName": "KickTR",
-        "description": "Kick'teki T\u00fcrk\u00e7e canl\u0131 yay\u0131nlar ve pop\u00fcler yay\u0131nc\u0131lar\u0131 canl\u0131 izleyin. Aray\u0131n, bulun  ve izlemeye devam edin.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/KickTR.cs3",
-        "name": "KickTR"
+        "internalName": "Puhu",
+        "description": "Puhu",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
+        "name": "Puhu"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
