@@ -183,29 +183,26 @@
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziBox.cs3",
         "name": "DiziBox"
     },
-    {
-        "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 20733,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 17243,
         "status": 1,
         "language": "tr",
         "authors": [
             "keyiflerolsun",
-            "yusiqo",
-            "inatchii",
-            "JustRelaxable"
+            "muratcesmecioglu"
         ],
         "tvTypes": [
-            "Movie",
-            "Live",
-            "TvSeries"
+            "TvSeries",
+            "Movie"
         ],
-        "version": 72,
-        "internalName": "RecTV",
-        "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/RecTV.cs3",
-        "name": "RecTV"
+        "version": 30,
+        "internalName": "DiziPal",
+        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
+        "name": "DiziPal"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=webdramaturkey.org/&sz=%size%",
