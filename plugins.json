@@ -165,24 +165,24 @@
         "name": "powerSinema"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 21976,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 26228,
         "status": 1,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq"
+            "keyiflerolsun",
+            "nikyokki"
         ],
         "tvTypes": [
-            "Live"
+            "TvSeries"
         ],
-        "version": 2,
-        "internalName": "TOGrup",
-        "description": "TO Grubu spor kanallar\u0131n\u0131 i\u00e7erir: Vavoo.to, Huhu.to, Kool.to, Oha.to",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/TOGrup.cs3",
-        "name": "TOGrup"
+        "version": 19,
+        "internalName": "Dizilla",
+        "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizilla.cs3",
+        "name": "Dizilla"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/tvbahcesi/bahcesitv.png",
