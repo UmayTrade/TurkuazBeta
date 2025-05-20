@@ -164,24 +164,22 @@
         "name": "powerSinema"
     },
   {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
+        "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
             "Makoto Tokioki"
         ],
         "tvTypes": [
-            "TvSeries",
             "Anime"
         ],
-        "version": 8,
-        "internalName": "Dizilla",
-        "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Dizilla.cs3",
-        "name": "Dizilla"
+        "version": 2,
+        "internalName": "AsyaAnimeleri",
+        "description": "AsyaAnimeleri.top",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaAnimeleri.cs3",
+        "name": "AsyaAnimeleri"
     },
 {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
