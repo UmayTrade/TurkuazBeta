@@ -203,25 +203,25 @@
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
         "name": "DiziPal"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=webdramaturkey.org/&sz=%size%",
+     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 31917,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 17813,
         "status": 1,
         "language": "tr",
         "authors": [
-            "GitLatte",
-            "patr0nq"
+            "nikyokki"
         ],
         "tvTypes": [
-            "Movie, Podcast, AsianDrama, Anime"
+            "Movie",
+            "TvSeries"
         ],
-        "version": 1,
-        "internalName": "WebDramaTurkey",
-        "description": "Kore, \u00c7in ve Japon yap\u0131m\u0131 filmleri Web Drama Turkey \u00fczerinden T\u00fcrk\u00e7e altyaz\u0131l\u0131 olarak izleyebilirsiniz. Kore filmi izle, \u00c7in filmi izle, Asya filmleri izle.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey.cs3",
-        "name": "WebDramaTurkey"
+        "version": 5,
+        "internalName": "DiziGom",
+        "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 yabanc\u0131 dizi izle, T\u00fcm yabanc\u0131, kore, netflix dizilerin yeni ve eski sezonlar\u0131n\u0131 orijinal dilinde dizigom1 alt yaz\u0131l\u0131 film izleyebilir, sadece t\u00fcrk\u00e7e altyaz\u0131l\u0131 en iyi yabanc\u0131 diziler ve filmler hakk\u0131nda yorum yapabilirsiniz.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziGom.cs3",
+        "name": "DiziGom"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
