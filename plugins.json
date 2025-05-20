@@ -239,22 +239,24 @@
         "name": "AsyaAnimeleri"
     },
     {
-        "iconUrl": "https://www.dmax.com.tr/favicon.ico",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 13243,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "fileSize": 21440,
         "status": 1,
         "language": "tr",
         "authors": [
-            "nikyokki"
+            "keyiflerolsun",
+            "JustRelaxable",
+            "Kraptor"
         ],
         "tvTypes": [
-            "TvSeries"
+            "Documentary"
         ],
-        "version": 2,
-        "internalName": "DMax",
-        "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DMax.cs3",
-        "name": "DMax"
+        "version": 6,
+        "internalName": "BelgeselX",
+        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/BelgeselX.cs3",
+        "name": "BelgeselX"
     },
 ]
