@@ -103,8 +103,8 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-        "fileSize": 17300,
+        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+        "fileSize": 16894,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -115,7 +115,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 30,
+        "version": 28,
         "internalName": "DiziPal",
         "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
         "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziPal.cs3",
@@ -182,10 +182,10 @@
         "name": "AsyaAnimeleri"
     },
 {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
+        "iconUrl": "https://www.dmax.com.tr/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 14240,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 13243,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -195,11 +195,11 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 9,
-        "internalName": "DiziYou",
-        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziYou.cs3",
-        "name": "DiziYou"
+        "version": 2,
+        "internalName": "DMax",
+        "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DMax.cs3",
+        "name": "DMax"
     },
       {
         "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
