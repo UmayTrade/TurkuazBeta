@@ -1,262 +1,311 @@
 [
-  {
-    "iconUrl": "https://image.winudf.com/v2/image1/Y29tLkluYXRfVFZfQm94X0Fwa19BX2xhcmdlX2NvbGxlY3Rpb25fb2ZfbW92aWVzX1RWX3Nob3dzX2FuZF93ZWJfc2VyaWUucHJ6ZXdvZG5pa19pY29uXzE2Mzc4NDg5NTVfMDYw/icon.webp?w=320&fakeurl=1&type=.webp",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "JustRelaxable",
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "version": 15,
-    "internalName": "InatBox",
-    "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
-    "name": "InatBox"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "keyiflerolsun",
-      "JustRelaxable"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 11,
-    "internalName": "AnimeciX",
-    "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AnimeciX.cs3",
-    "name": "AnimeciX"
-  },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 22771,
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/AniworldMC.cs3",
         "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
         "version": 1,
-        "internalName": "DDizi",
-        "description": "Ddizi, dizi izle, dizi seyret, ddizi.im - G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz dizi izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DDizi.cs3",
-        "name": "DDizi"
+        "name": "AniworldMC",
+        "internalName": "AniworldMC",
+        "authors": [
+            "Hexated",
+            "GitLatte"
+        ],
+        "description": "Aniworld plugin from Hexated Repository from Github.",
+        "fileSize": 16971,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "de",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
+        "apiVersion": 1
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizifun2.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 31015,
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLive.cs3",
         "status": 1,
-        "language": "tr",
+        "version": 3,
+        "name": "DaddyLive",
+        "internalName": "DaddyLive",
         "authors": [
             "GitLatte",
             "patr0nq"
         ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "DiziFun",
-        "description": "Dizifun, yabanc\u0131 dizi - film, yerli dizi - film , t\u00fcrk\u00e7e dublaj , t\u00fcrk\u00e7e altyaz\u0131l\u0131 ve anime dizi - film izlemeniz i\u00e7in sizinledir.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DiziFun.cs3",
-        "name": "DiziFun"
-    },
-  {
-        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 3,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "version": 16,
-        "internalName": "SineWix",
-        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
-        "name": "SineWix"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 16894,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "muratcesmecioglu"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 28,
-        "internalName": "DiziPal",
-        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziPal.cs3",
-        "name": "DiziPal"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powerdizi/powerdizi.png",
-        "apiVersion": 1,
+        "description": "DaddyLive Spor kanallar\u0131 ve m\u00fcmk\u00fcn oldu\u011funca VPN olmadan izletmek i\u00e7in \ud83d\udcaa\ud83c\udffb\ud83d\udca5",
+        "fileSize": 22060,
         "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 33263,
-        "status": 1,
         "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 3,
-        "internalName": "powerDizi",
-        "description": "powerboard`un yabanc\u0131 dizi ar\u015fivi",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerDizi.cs3",
-        "name": "powerDizi"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 28347,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "powerSinema",
-        "description": "powerboard`un sinema ar\u015fivi",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerSinema.cs3",
-        "name": "powerSinema"
-    },
-  {
-        "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 2,
-        "internalName": "AsyaAnimeleri",
-        "description": "AsyaAnimeleri.top",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaAnimeleri.cs3",
-        "name": "AsyaAnimeleri"
-    },
-{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-        "fileSize": 14240,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "nikyokki"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 9,
-        "internalName": "DiziYou",
-        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
-        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziYou.cs3",
-        "name": "DiziYou"
-    },
-      {
-        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Makoto Tokioki"
-        ],
-        "tvTypes": [
-            "Movie,TvSeries"
-        ],
-        "version": 1,
-        "internalName": "Puhu",
-        "description": "Puhu",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
-        "name": "Puhu"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-        "fileSize": 20606,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "GitLatte",
-            "patr0nq"
-        ],
         "tvTypes": [
             "Live"
         ],
-        "version": 1,
-        "internalName": "YTCanliTV",
-        "description": "Youtube \u00fczerinden canl\u0131 yay\u0131n yapan kanallar\u0131 izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTCanliTV.cs3",
-        "name": "YTCanliTV"
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
+        "apiVersion": 1
     },
     {
-        "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm5ld2xlYWYuYXBwLmFuZHJvaWQudmljdG9yX2ljb25fMTY4NDc1Nzk3Nl8wOTU/icon.webp?w=280&fakeurl=1&type=.webp",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-        "fileSize": 20130,
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLiveEvents.cs3",
         "status": 1,
-        "language": "tr",
+        "version": 2,
+        "name": "DaddyLiveEvents",
+        "internalName": "DaddyLiveEvents",
         "authors": [
-            "Saklimavi",
+            "GitLatte",
             "patr0nq"
         ],
+        "description": "DaddyLive Events i\u00e7erik\u015ferini ve m\u00fcmk\u00fcn oldu\u011funca VPN olmadan izletmek i\u00e7in \ud83d\udcaa\ud83c\udffb\ud83d\udca5",
+        "fileSize": 22057,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
         "tvTypes": [
-            "Movie, Live"
+            "Live"
         ],
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events.png",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLiveVPN.cs3",
+        "status": 1,
         "version": 1,
-        "internalName": "RecTV",
-        "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
-        "name": "RecTV"
+        "name": "DaddyLiveVPN",
+        "internalName": "DaddyLiveVPN",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "description": "DaddyLive Spor kanallar\u0131n\u0131 VPN ile izleyebilmek i\u00e7in",
+        "fileSize": 22057,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-vpn.png",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DDizi.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DDizi",
+        "internalName": "DDizi",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "description": "Ddizi, dizi izle, dizi seyret, ddizi.im - G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz dizi izleme sitesi.",
+        "fileSize": 22770,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DiziFun.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "DiziFun",
+        "internalName": "DiziFun",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "description": "Dizifun, yabanc\u0131 dizi - film, yerli dizi - film , t\u00fcrk\u00e7e dublaj , t\u00fcrk\u00e7e altyaz\u0131l\u0131 ve anime dizi - film izlemeniz i\u00e7in sizinledir.",
+        "fileSize": 31015,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizifun2.com&sz=%size%",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/KickTR.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "KickTR",
+        "internalName": "KickTR",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "description": "Kick'teki T\u00fcrk\u00e7e canl\u0131 yay\u0131nlar ve pop\u00fcler yay\u0131nc\u0131lar\u0131 canl\u0131 izleyin. Aray\u0131n, bulun  ve izlemeye devam edin.",
+        "fileSize": 24944,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kick.com&sz=%size%",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/mywayTV.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "mywayTV",
+        "internalName": "mywayTV",
+        "authors": [
+            "keyiflerolsun",
+            "GitLatte",
+            "patr0nq",
+            "nikyokki"
+        ],
+        "description": "Sinetech.tr Forum myway canl\u0131 tv listesi",
+        "fileSize": 18905,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerDizi.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "powerDizi",
+        "internalName": "powerDizi",
+        "authors": [
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "description": "powerboard`un yabanc\u0131 dizi ar\u015fivi",
+        "fileSize": 33264,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powerdizi/powerdizi.png",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerSinema.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "powerSinema",
+        "internalName": "powerSinema",
+        "authors": [
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "description": "powerboard`un sinema ar\u015fivi",
+        "fileSize": 28347,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/powersinema/powersinema.png",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/TOGrup.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "TOGrup",
+        "internalName": "TOGrup",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "description": "TO Grubu spor kanallar\u0131n\u0131 i\u00e7erir: Vavoo.to, Huhu.to, Kool.to, Oha.to",
+        "fileSize": 21976,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/TvBahcesi.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "TvBahcesi",
+        "internalName": "TvBahcesi",
+        "authors": [
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "description": "TvGarden televizyon listesi. @keyiflerolsun Canl\u0131 TV eklentisinden yararlan\u0131lm\u0131\u015ft\u0131r.",
+        "fileSize": 19501,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/Sinetech/master/img/tvbahcesi/bahcesitv.png",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "WebDramaTurkey",
+        "internalName": "WebDramaTurkey",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "description": "Kore, \u00c7in ve Japon yap\u0131m\u0131 filmleri Web Drama Turkey \u00fczerinden T\u00fcrk\u00e7e altyaz\u0131l\u0131 olarak izleyebilirsiniz. Kore filmi izle, \u00c7in filmi izle, Asya filmleri izle.",
+        "fileSize": 31920,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "Movie, Podcast, AsianDrama, Anime"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webdramaturkey.org/&sz=%size%",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTCanliTV.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "YTCanliTV",
+        "internalName": "YTCanliTV",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "description": "Youtube \u00fczerinden canl\u0131 yay\u0131n yapan kanallar\u0131 izleyebilirsiniz.",
+        "fileSize": 20608,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YTEglence.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "YTEglence",
+        "internalName": "YTEglence",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "description": "Youtube \u00fczerindeki kullan\u0131c\u0131 tercihleriyle eklenen e\u011flence kanallar\u0131n\u0131n i\u00e7eriklerini izleyebilirsiniz.",
+        "fileSize": 29172,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "language": "tr",
+        "tvTypes": [
+            "Others, Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+        "apiVersion": 1
     }
 ]
