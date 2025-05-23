@@ -22,6 +22,28 @@
         "apiVersion": 1
     },
         {
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
+        "status": 1,
+        "version": 16,
+        "name": "SineWix",
+        "internalName": "SineWix",
+        "authors": [
+            "Hexated",
+            "GitLatte"
+        ],
+        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
+        "fileSize": 16971,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "language": "de",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
+        "apiVersion": 1
+    },
+        {
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
         "status": 1,
         "version": 1,
@@ -189,7 +211,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv4/refs/heads/main/DiziPal/DiziPal.cs3",
-        "status": 1,
+        "status": 0,
         "version": 1,
         "name": "DiziPal",
         "internalName": "DiziPal",
