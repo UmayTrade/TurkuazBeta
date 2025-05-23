@@ -259,7 +259,7 @@
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
         "name": "RecTV"
     }
-{
+   {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/UmayTrade/UmayTv4",
@@ -267,12 +267,11 @@
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun",
-            "muratcesmecioglu"
+            "Saklimavi",
+            "patr0nq"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Live"
         ],
         "version": 30,
         "internalName": "DiziPal",
