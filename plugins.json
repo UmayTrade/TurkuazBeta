@@ -21,6 +21,28 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
         "apiVersion": 1
     },
+        {
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "RecTV",
+        "internalName": "RecTV",
+        "authors": [
+            "Hexated",
+            "GitLatte"
+        ],
+        "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+        "fileSize": 16971,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "language": "de",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm5ld2xlYWYuYXBwLmFuZHJvaWQudmljdG9yX2ljb25fMTY4NDc1Nzk3Nl8wOTU/icon.webp?w=280&fakeurl=1&type=.webp",
+        "apiVersion": 1
+    },
     {
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
         "status": 1,
