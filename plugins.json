@@ -41,6 +41,26 @@
         "iconUrl": "https://www.dmax.com.tr/favicon.ico",
         "apiVersion": 1
     },
+                {
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TLC.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "TLC",
+        "internalName": "TLC",
+        "authors": [
+            "Hexated",
+            "GitLatte"
+        ],
+        "description": "TLC TV dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. TLC TV dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "fileSize": 16971,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.tlctv.com.tr/favicon.ico",
+        "apiVersion": 1
+    },
         {
         "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelDiziler.cs3",
         "status": 1,
