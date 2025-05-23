@@ -166,20 +166,20 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/mywayTV.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv4/refs/heads/main/DiziPal/DiziPal.cs3",
         "status": 1,
         "version": 1,
-        "name": "mywayTV",
-        "internalName": "mywayTV",
+        "name": "DiziPal",
+        "internalName": "DiziPal",
         "authors": [
             "keyiflerolsun",
             "GitLatte",
             "patr0nq",
             "nikyokki"
         ],
-        "description": "Sinetech.tr Forum myway canl\u0131 tv listesi",
+        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
         "fileSize": 18905,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "repositoryUrl": "https://github.com/UmayTrade/UmayTv4",
         "language": "tr",
         "tvTypes": [
             "Live"
