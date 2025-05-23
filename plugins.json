@@ -132,23 +132,23 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLive.cs3",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaFilmIzlesene.cs3",
         "status": 1,
         "version": 3,
-        "name": "DaddyLive",
-        "internalName": "DaddyLive",
+        "name": "AsyaFilmIzlesene",
+        "internalName": "AsyaFilmIzlesene",
         "authors": [
             "GitLatte",
             "patr0nq"
         ],
-        "description": "DaddyLive Spor kanallar\u0131 ve m\u00fcmk\u00fcn oldu\u011funca VPN olmadan izletmek i\u00e7in \ud83d\udcaa\ud83c\udffb\ud83d\udca5",
+        "description": "Hint, Kore Filmleri",
         "fileSize": 22060,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "language": "tr",
         "tvTypes": [
             "Live"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive.png",
+        "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
         "apiVersion": 1
     },
     {
