@@ -22,6 +22,28 @@
         "apiVersion": 1
     },
     {
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "InatBox",
+        "internalName": "InatBox",
+        "authors": [
+            "Hexated",
+            "GitLatte"
+        ],
+        "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+        "fileSize": 16971,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "language": "de",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzI2ODU2MTY1XzIwOTUzMV8yMDIzMTIxMzExMjMxODk0OA/icon.webp?w=280&fakeurl=1&type=.webp",
+        "apiVersion": 1
+    },
+    {
         "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLive.cs3",
         "status": 1,
         "version": 3,
