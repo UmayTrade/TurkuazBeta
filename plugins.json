@@ -44,25 +44,25 @@
         "apiVersion": 1
     },
         {
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/AniworldMC.cs3",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Dizilla.cs3",
         "status": 1,
         "version": 1,
-        "name": "AniworldMC",
-        "internalName": "AniworldMC",
+        "name": "Dizilla",
+        "internalName": "Dizilla",
         "authors": [
             "Hexated",
             "GitLatte"
         ],
-        "description": "Aniworld plugin from Hexated Repository from Github.",
+        "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
         "fileSize": 16971,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "language": "de",
         "tvTypes": [
             "AnimeMovie",
             "Anime",
             "OVA"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1
     },
         {
