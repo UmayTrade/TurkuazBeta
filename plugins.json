@@ -152,23 +152,23 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLiveEvents.cs3",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AnimeciX.cs3",
         "status": 1,
         "version": 2,
-        "name": "DaddyLiveEvents",
-        "internalName": "DaddyLiveEvents",
+        "name": "AnimeciX",
+        "internalName": "AnimeciX",
         "authors": [
             "GitLatte",
             "patr0nq"
         ],
-        "description": "DaddyLive Events i\u00e7erik\u015ferini ve m\u00fcmk\u00fcn oldu\u011funca VPN olmadan izletmek i\u00e7in \ud83d\udcaa\ud83c\udffb\ud83d\udca5",
+        "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
         "fileSize": 22057,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "language": "tr",
         "tvTypes": [
             "Live"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
         "apiVersion": 1
     },
     {
