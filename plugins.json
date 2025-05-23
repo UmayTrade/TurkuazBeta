@@ -172,23 +172,23 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLiveVPN.cs3",
+        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelProgramlar.cs3",
         "status": 1,
         "version": 1,
-        "name": "DaddyLiveVPN",
-        "internalName": "DaddyLiveVPN",
+        "name": "YerelProgramlar",
+        "internalName": "YerelProgramlar",
         "authors": [
             "GitLatte",
             "patr0nq"
         ],
-        "description": "DaddyLive Spor kanallar\u0131n\u0131 VPN ile izleyebilmek i\u00e7in",
+        "description": "Yerel programlar\u0131 g\u00fcncel \u015fekilde bulabilirsiniz",
         "fileSize": 22057,
-        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
         "language": "tr",
         "tvTypes": [
             "Live"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-vpn.png",
+        "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
         "apiVersion": 1
     },
     {
