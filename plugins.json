@@ -43,6 +43,67 @@
         "iconUrl": "https://www.dmax.com.tr/favicon.ico",
         "apiVersion": 1
     },
+    {
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/DiziYou.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DiziYou",
+        "internalName": "DiziYou",
+        "authors": [
+            "Saklimavi",
+            "GrfkBrk",
+            "Yamtar"
+        ],
+        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
+        "fileSize": 14324,
+        "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
+        "apiVersion": 1
+    },
+        {
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzleme.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "4KFilmIzleme",
+        "internalName": "4KFilmIzleme",
+        "authors": [
+            "Saklimavi",
+            "GrfkBrk",
+            "Yamtar"
+        ],
+        "description": "Film izle, \u26a1 En yeni \u00e7\u0131kan yabanc\u0131 vizyon filmleri 4KFilmizleme ile Online 1080p kalite veya Ultra Full HD 4K Film izle.",
+        "fileSize": 14324,
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
+        "apiVersion": 1
+    },
+            {
+        "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/4KFilmIzlesene.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "4KFilmIzlesene",
+        "internalName": "4KFilmIzlesene",
+        "authors": [
+            "Saklimavi",
+            "GrfkBrk",
+            "Yamtar"
+        ],
+        "description": "En yeni ve sorunsuz \u26a1  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme fark\u0131yla 4KFilmizlesene&amp;#039;nin Tad\u0131n\u0131 \u00c7\u0131kart.",
+        "fileSize": 14324,
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
+        "apiVersion": 1
+    },
                 {
         "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TLC.cs3",
         "status": 1,
