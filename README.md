@@ -60,4 +60,4 @@ Yerel Programlar 🟢
 Not:
 🟢= AKTİF
 
-🔴= PASİ
+🔴= PASİF
