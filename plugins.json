@@ -170,7 +170,7 @@
         "apiVersion": 1
     },
         {
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Dizilla.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/Dizilla.cs3",
         "status": 1,
         "version": 1,
         "name": "Dizilla",
@@ -193,7 +193,7 @@
         "apiVersion": 1
     },
         {
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/SineWix.cs3",
         "status": 1,
         "version": 16,
         "name": "SineWix",
@@ -283,7 +283,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AnimeciX.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/AnimeciX.cs3",
         "status": 1,
         "version": 2,
         "name": "AnimeciX",
@@ -368,7 +368,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/Puhu.cs3",
         "status": 1,
         "version": 1,
         "name": "Puhu",
@@ -453,7 +453,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaAnimeleri.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/AsyaAnimeleri.cs3",
         "status": 1,
         "version": 2,
         "name": "AsyaAnimeleri",
