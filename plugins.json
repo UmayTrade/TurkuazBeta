@@ -147,7 +147,7 @@
         "apiVersion": 1
     },
         {
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelDiziler.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/YerelDiziler.cs3",
         "status": 1,
         "version": 1,
         "name": "YerelDiziler",
@@ -216,7 +216,7 @@
         "apiVersion": 1
     },
         {
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/RecTV.cs3",
         "status": 1,
         "version": 1,
         "name": "RecTV",
@@ -239,7 +239,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/InatBox.cs3",
         "status": 1,
         "version": 15,
         "name": "InatBox",
@@ -304,7 +304,7 @@
         "apiVersion": 1
     },
     {
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelProgramlar.cs3",
+        "url": "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/YerelProgramlar.cs3",
         "status": 1,
         "version": 1,
         "name": "YerelProgramlar",
