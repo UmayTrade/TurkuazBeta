@@ -3,6 +3,6 @@
     "description": "Türkçe Cloudstream eklentileri",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/UmayTrade/UmayTv2/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/plugins.json"
     ]
 }
