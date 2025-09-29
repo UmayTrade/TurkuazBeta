@@ -13,5 +13,4 @@ IF NOT EXIST "%GRADLE_WRAPPER_JAR%" (
     EXIT /B 1
 )
 
-REM Execute Java with the wrapper JAR and pass all arguments
 java -jar "%GRADLE_WRAPPER_JAR%" %*
