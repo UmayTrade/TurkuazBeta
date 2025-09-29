@@ -19,14 +19,13 @@ jobs:
           path: src
           fetch-depth: 0
 
-      # 2️⃣ builds branch klasörünü güvenli şekilde oluştur
+      # 2️⃣ builds branch için güvenli klasör oluştur
       - name: Prepare builds branch safely
         run: |
           mkdir -p builds
           cd builds
           git init
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          # Eğer branch varsa çek, yoksa boş bırak
           git fetch origin builds || echo "builds branch yok, oluşturulacak"
           git checkout -B builds || git checkout -b builds
 
@@ -37,34 +36,34 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      # 4️⃣ Gradle kurulumu
-      - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v4
+      # 4️⃣ Gradle Wrapper kullanımı için Linux/Mac executable ayarla
+      - name: Make gradlew executable (Linux/macOS)
+        run: chmod +x src/gradlew || true
 
-      # 5️⃣ Gradlew çalıştırılabilir yap
-      - name: Make gradlew executable
-        run: chmod +x src/gradlew
-
-      # 6️⃣ Eklentileri derle (.cs3 + plugins.json)
+      # 5️⃣ Build plugins (cross-platform)
       - name: Build plugins
-        working-directory: src
-        run: ./gradlew clean createCs3 makePluginsJson --no-daemon
+        run: |
+          if [[ "$RUNNER_OS" == "Windows" ]]; then
+            src\gradlew.bat clean createCs3 makePluginsJson --no-daemon
+          else
+            src/gradlew clean createCs3 makePluginsJson --no-daemon
+          fi
 
-      # 7️⃣ Çıktıları builds klasörüne kopyala
+      # 6️⃣ Çıktıları builds klasörüne kopyala
       - name: Copy outputs
         run: |
           mkdir -p builds
-          cp src/build/outputs/*.cs3 builds/ || true
-          cp src/build/outputs/plugins.json builds/ || true
+          cp src/build/outputs/*.cs3 builds/ || cp src\build\outputs\*.cs3 builds/ || true
+          cp src/build/outputs/plugins.json builds/ || cp src\build\outputs\plugins.json builds/ || true
 
-      # 8️⃣ Author tag değiştir
+      # 7️⃣ Author tag değiştir
       - name: Replace author tag
         run: |
           if [ -f "builds/plugins.json" ]; then
             sed -i 's/@KekikAkademi/@UmayTrade/g' builds/plugins.json || true
           fi
 
-      # 9️⃣ Commit ve push (exit code 1 engellendi)
+      # 8️⃣ Commit ve push
       - name: Commit and push to builds branch
         run: |
           cd builds
