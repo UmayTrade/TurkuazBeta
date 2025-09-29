@@ -17,13 +17,17 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: src
+          fetch-depth: 0
 
-      # 2️⃣ builds branch'i çek
-      - name: Checkout builds branch
-        uses: actions/checkout@v4
-        with:
-          ref: builds
-          path: builds
+      # 2️⃣ builds branch için klasör oluştur ve initialize et
+      - name: Prepare builds branch
+        run: |
+          mkdir -p builds
+          cd builds
+          git init
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git fetch origin builds || echo "builds branch yok, oluşturulacak"
+          git checkout -B builds || git checkout -b builds
 
       # 3️⃣ JDK 17 kurulumu
       - name: Set up JDK 17
@@ -40,7 +44,7 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x src/gradlew
 
-      # 6️⃣ Eklentileri derle
+      # 6️⃣ Eklentileri derle (.cs3 + plugins.json)
       - name: Build plugins
         working-directory: src
         run: ./gradlew clean createCs3 makePluginsJson --no-daemon
@@ -63,12 +67,8 @@ jobs:
       - name: Commit and push to builds branch
         run: |
           cd builds
-          git init
           git config user.name "github-actions[bot]"
           git config user.email "actions@github.com"
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git fetch origin builds || true
-          git checkout -B builds
           git add .
           git diff-index --quiet HEAD || git commit -m "Automatik derleme: $GITHUB_SHA"
           git push --force origin builds
