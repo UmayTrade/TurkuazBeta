@@ -19,56 +19,59 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1. Kaynak kodları (master branch) çek
-      - name: Kaynak Kodu (src) Çek
+      - name: Checkout source (master)
         uses: actions/checkout@v4
         with:
           path: src
 
-      # 2. builds branch'i çek
-      - name: Build Deposu (builds) Çek
+      - name: Checkout builds branch
         uses: actions/checkout@v4
         with:
           ref: builds
           path: builds
 
-      # 3. Eski derlemeleri temizle
-      - name: Eski Derlemeleri Temizle
-        run: rm -f $GITHUB_WORKSPACE/builds/*.cs3 $GITHUB_WORKSPACE/builds/plugins.json
-
-      # 4. JDK 17 kurulumu
-      - name: JDK 17 Ayarla
+      - name: Set up JDK 17
         uses: actions/setup-java@v4
         with:
           distribution: temurin
           java-version: 17
 
-      # 5. Android SDK kurulumu
-      - name: Android SDK Ayarla
-        uses: android-actions/setup-android@v3
-
-      # 6. Eklentileri derle
-      - name: Eklentileri Derle
+      - name: Ensure gradlew is executable
         run: |
-          cd $GITHUB_WORKSPACE/src
-          chmod +x gradlew
-          ./gradlew make makePluginsJson
-          cp **/build/*.cs3 $GITHUB_WORKSPACE/builds/ || true
-          cp build/plugins.json $GITHUB_WORKSPACE/builds/ || true
+          cd src
+          chmod +x gradlew || true
 
-      # 7. Repo adını değiştir
-      - name: '@KekikAkademi ifadesini değiştir'
+      - name: Build plugin and create .cs3 and plugins.json
+        working-directory: src
         run: |
-          sed -i 's/@KekikAkademi/@UmayTrade/g' $GITHUB_WORKSPACE/builds/plugins.json || true
+          ./gradlew clean createCs3 makePluginsJson --no-daemon
+          # outputs: src/build/outputs/*.cs3, src/build/outputs/plugins.json
 
-      # 8. Çıktıları builds branch'ine gönder
-      - name: Derlemeleri Yükle
+      - name: Copy outputs to builds workspace
+        run: |
+          mkdir -p $GITHUB_WORKSPACE/builds
+          cp src/build/outputs/*.cs3 $GITHUB_WORKSPACE/builds/ || true
+          cp src/build/outputs/plugins.json $GITHUB_WORKSPACE/builds/ || true
+
+      - name: Replace author tag in plugins.json
+        run: |
+          if [ -f "$GITHUB_WORKSPACE/builds/plugins.json" ]; then
+            sed -i 's/@KekikAkademi/@UmayTrade/g' $GITHUB_WORKSPACE/builds/plugins.json || true
+          fi
+
+      - name: Commit and push to builds branch
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: actions@github.com
         run: |
           cd $GITHUB_WORKSPACE/builds
-          git config user.email "actions@github.com"
-          git config user.name "github-actions[bot]"
+          git init
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git fetch origin builds || true
+          git checkout -B builds
+          git config user.email "$GIT_AUTHOR_EMAIL"
+          git config user.name "$GIT_AUTHOR_NAME"
           git add .
-          git commit -m "Yeni derleme: $GITHUB_SHA" || echo "Commitlenecek değişiklik yok"
-          git push origin HEAD:builds
+          git commit -m "Automatik derleme: $GITHUB_SHA" || echo "No changes to commit"
+          git push --force origin builds
