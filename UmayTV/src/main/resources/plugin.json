@@ -1,0 +1,8 @@
+{
+  "id": "umaytv-helloplugin",
+  "name": "UmayTv4 - HelloPlugin",
+  "version": "1.0.0",
+  "author": "@KekikAkademi",
+  "description": "Örnek CloudStream eklentisi - HelloPlugin",
+  "entry": "com.umaytrade.plugin.HelloPlugin"
+}

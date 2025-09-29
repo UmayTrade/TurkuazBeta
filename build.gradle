@@ -1,0 +1,47 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.9.25'
+}
+
+group = 'com.umaytrade'
+version = '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
+}
+
+// Jar yapılandırması
+jar {
+    manifest {
+        attributes(
+            'Implementation-Title': project.name,
+            'Implementation-Version': project.version,
+            'Main-Class': 'com.umaytrade.plugin.HelloPlugin'
+        )
+    }
+    from(sourceSets.main.output)
+}
+
+// .cs3 paketini oluştur (zip benzeri)
+task createCs3(type: Zip) {
+    dependsOn jar
+    def outDir = file("$buildDir/outputs")
+    outputs.dir outDir
+    archiveFileName = "${project.name}-${project.version}.cs3"
+    destinationDirectory = outDir
+
+    // jar'ı lib/ içinde koy
+    from(jar.archiveFile) {
+        into "lib"
+    }
+    // plugin metadata dosyasını meta/ içine koy
+    from("src/main/resources/plugin.json") {
+        into "meta"
+    }
+    // ek olarak README ya da lisans koymak isterseniz buraya ekleyin
+}
+
+// plugins.json üret (derlenen
