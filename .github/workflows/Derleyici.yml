@@ -3,8 +3,7 @@ name: CloudStream Derleyici
 on:
   workflow_dispatch:
   push:
-    branches:
-      - master
+    branches: [ "main", "master" ]
     paths-ignore:
       - "**/*.md"
       - "**/*.yml"
@@ -12,15 +11,14 @@ on:
       - "**/*.png"
       - "**/*.py"
 
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout source (master)
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
           path: src
@@ -34,44 +32,36 @@ jobs:
       - name: Set up JDK 17
         uses: actions/setup-java@v4
         with:
-          distribution: temurin
-          java-version: 17
+          java-version: '17'
+          distribution: 'temurin'
 
-      - name: Ensure gradlew is executable
-        run: |
-          cd src
-          chmod +x gradlew || true
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
 
-      - name: Build plugin and create .cs3 and plugins.json
+      - name: Make gradlew executable
+        run: chmod +x src/gradlew || true
+
+      - name: Build plugins
         working-directory: src
-        run: |
-          ./gradlew clean createCs3 makePluginsJson --no-daemon
-          # outputs: src/build/outputs/*.cs3, src/build/outputs/plugins.json
+        run: ./gradlew clean createCs3 makePluginsJson --no-daemon
 
-      - name: Copy outputs to builds workspace
+      - name: Copy outputs
         run: |
-          mkdir -p $GITHUB_WORKSPACE/builds
-          cp src/build/outputs/*.cs3 $GITHUB_WORKSPACE/builds/ || true
-          cp src/build/outputs/plugins.json $GITHUB_WORKSPACE/builds/ || true
+          mkdir -p builds
+          cp src/build/outputs/*.cs3 builds/ || true
+          cp src/build/outputs/plugins.json builds/ || true
 
-      - name: Replace author tag in plugins.json
+      - name: Replace author tag
         run: |
-          if [ -f "$GITHUB_WORKSPACE/builds/plugins.json" ]; then
-            sed -i 's/@KekikAkademi/@UmayTrade/g' $GITHUB_WORKSPACE/builds/plugins.json || true
+          if [ -f "builds/plugins.json" ]; then
+            sed -i 's/@KekikAkademi/@UmayTrade/g' builds/plugins.json || true
           fi
 
-      - name: Commit and push to builds branch
-        env:
-          GIT_AUTHOR_NAME: github-actions[bot]
-          GIT_AUTHOR_EMAIL: actions@github.com
+      - name: Push to builds branch
         run: |
-          cd $GITHUB_WORKSPACE/builds
-          git init
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git fetch origin builds || true
-          git checkout -B builds
-          git config user.email "$GIT_AUTHOR_EMAIL"
-          git config user.name "$GIT_AUTHOR_NAME"
+          cd builds
+          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
           git add .
-          git commit -m "Automatik derleme: $GITHUB_SHA" || echo "No changes to commit"
-          git push --force origin builds
+          git commit -m "Yeni derleme: $GITHUB_SHA" || echo "No changes"
+          git push origin HEAD:builds
