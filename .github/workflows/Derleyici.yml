@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-      # 1️⃣ Kaynak kodları çek
+      # 1️⃣ Kaynak kodları çek (main/master)
       - name: Checkout source
         uses: actions/checkout@v4
         with:
@@ -36,11 +36,11 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      # 4️⃣ Gradle Wrapper kullanımı için Linux/Mac executable ayarla
-      - name: Make gradlew executable (Linux/macOS)
+      # 4️⃣ Gradlew çalıştırılabilir yap (Linux/macOS)
+      - name: Make gradlew executable
         run: chmod +x src/gradlew || true
 
-      # 5️⃣ Build plugins (cross-platform)
+      # 5️⃣ Build plugins (Linux/macOS ve Windows uyumlu)
       - name: Build plugins
         run: |
           if [[ "$RUNNER_OS" == "Windows" ]]; then
