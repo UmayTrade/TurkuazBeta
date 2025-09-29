@@ -1,74 +1,16 @@
 name: CloudStream Derleyici
-
 on:
   workflow_dispatch:
   push:
-    branches: [ "main", "master" ]
-
+    branches: [ 'main', 'master' ]
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      # 1️⃣ Kaynak kodları çek (main/master)
       - name: Checkout source
         uses: actions/checkout@v4
-        with:
-          path: src
-          fetch-depth: 0
-
-      # 2️⃣ builds branch için güvenli klasör oluştur
-      - name: Prepare builds branch safely
-        run: |
-          mkdir -p builds
-          cd builds
-          git init
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git fetch origin builds || echo "builds branch yok, oluşturulacak"
-          git checkout -B builds || git checkout -b builds
-
-      # 3️⃣ JDK 17 kurulumu
       - name: Set up JDK 17
         uses: actions/setup-java@v4
         with:
           java-version: '17'
           distribution: 'temurin'
-
-      # 4️⃣ Gradlew çalıştırılabilir yap (Linux/macOS)
-      - name: Make gradlew executable
-        run: chmod +x src/gradlew || true
-
-      # 5️⃣ Build plugins (Linux/macOS ve Windows uyumlu)
-      - name: Build plugins
-        run: |
-          if [[ "$RUNNER_OS" == "Windows" ]]; then
-            src\gradlew.bat clean createCs3 makePluginsJson --no-daemon
-          else
-            src/gradlew clean createCs3 makePluginsJson --no-daemon
-          fi
-
-      # 6️⃣ Çıktıları builds klasörüne kopyala
-      - name: Copy outputs
-        run: |
-          mkdir -p builds
-          cp src/build/outputs/*.cs3 builds/ || cp src\build\outputs\*.cs3 builds/ || true
-          cp src/build/outputs/plugins.json builds/ || cp src\build\outputs\plugins.json builds/ || true
-
-      # 7️⃣ Author tag değiştir
-      - name: Replace author tag
-        run: |
-          if [ -f "builds/plugins.json" ]; then
-            sed -i 's/@KekikAkademi/@UmayTrade/g' builds/plugins.json || true
-          fi
-
-      # 8️⃣ Commit ve push
-      - name: Commit and push to builds branch
-        run: |
-          cd builds
-          git config user.name "github-actions[bot]"
-          git config user.email "actions@github.com"
-          git add .
-          git diff-index --quiet HEAD || git commit -m "Automatik derleme: $GITHUB_SHA"
-          git push --force origin builds
