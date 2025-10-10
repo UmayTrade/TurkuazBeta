@@ -1,5 +1,3 @@
-// build.gradle.kts (Ana Dizin)
-
 import com.lagradost.cloudstream3.gradle.CloudstreamExtension
 import com.android.build.gradle.BaseExtension
 
@@ -7,11 +5,13 @@ buildscript {
     repositories {
         google()
         mavenCentral()
+        // Shitpack repo which contains our tools and dependencies
         maven("https://jitpack.io")
     }
 
     dependencies {
         classpath("com.android.tools.build:gradle:8.7.3")
+        // Cloudstream gradle plugin which makes everything work and builds plugins
         classpath("com.github.recloudstream:gradle:-SNAPSHOT")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:2.1.0")
     }
@@ -26,6 +26,7 @@ allprojects {
 }
 
 fun Project.cloudstream(configuration: CloudstreamExtension.() -> Unit) = extensions.getByName<CloudstreamExtension>("cloudstream").configuration()
+
 fun Project.android(configuration: BaseExtension.() -> Unit) = extensions.getByName<BaseExtension>("android").configuration()
 
 subprojects {
@@ -34,14 +35,14 @@ subprojects {
     apply(plugin = "com.lagradost.cloudstream3.gradle")
 
     cloudstream {
-        // GÜNCELLENDİ: Yeni GitHub depo adresi
-        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/UmayTrade/UmayTv4")
-        authors = listOf("UmayTrade")
+        // when running through github workflow, GITHUB_REPOSITORY should contain current repository name
+        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/nikyokki/nik-cloudstream")
+
+        authors = listOf("nikyokki")
     }
 
     android {
-        // Alt projeler için varsayılan namespace
-        namespace = "com.umaytv" 
+        namespace = "com.nikyokki"
 
         defaultConfig {
             minSdk = 21
@@ -50,7 +51,7 @@ subprojects {
         }
 
         compileOptions {
-             sourceCompatibility = JavaVersion.VERSION_1_8
+            sourceCompatibility = JavaVersion.VERSION_1_8
             targetCompatibility = JavaVersion.VERSION_1_8
         }
 
@@ -68,19 +69,23 @@ subprojects {
         }
     }
 
+
     dependencies {
         val cloudstream by configurations
         val implementation by configurations
 
+        // Stubs for all Cloudstream classes
         cloudstream("com.lagradost:cloudstream3:pre-release")
 
-        // Gerekli kütüphaneler
-        implementation(kotlin("stdlib"))                                             
-        implementation("com.github.Blatzar:NiceHttp:0.4.11")                          
-        implementation("org.jsoup:jsoup:1.21.1")                                     
-        implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.19.2")  
-        implementation("com.fasterxml.jackson.core:jackson-databind:2.19.2")         
-        implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2")     
+        // these dependencies can include any of those which are added by the app,
+        // but you dont need to include any of them if you dont need them
+        // https://github.com/recloudstream/cloudstream/blob/master/app/build.gradle
+        implementation(kotlin("stdlib"))                                              // Kotlin'in temel kütüphanesi
+        implementation("com.github.Blatzar:NiceHttp:0.4.11")                          // HTTP kütüphanesi
+        implementation("org.jsoup:jsoup:1.21.1")                                      // HTML ayrıştırıcı
+        implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.19.2")   // Kotlin için Jackson JSON kütüphanesi
+        implementation("com.fasterxml.jackson.core:jackson-databind:2.19.2")          // JSON-nesne dönüştürme kütüphanesi
+        implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2")      // Kotlin için asenkron işlemler
 
     }
 }

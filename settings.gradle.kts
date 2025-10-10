@@ -1,23 +1,19 @@
-// settings.gradle.kts
+rootProject.name = "CloudstreamPlugins"
 
-pluginManagement {
-    repositories {
-        gradlePluginPortal()
-        google()
-        mavenCentral()
-    }
-}
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        google()
-        mavenCentral()
-        maven("https://jitpack.io")
+// This file sets what projects are included. All new projects should get automatically included unless specified in "disabled" variable.
+
+val disabled = listOf<String>("__Temel")
+
+File(rootDir, ".").eachDir { dir ->
+    if (!disabled.contains(dir.name) && File(dir, "build.gradle.kts").exists()) {
+        include(dir.name)
     }
 }
 
-// Proje adını UmayTV uzantısı olarak ayarlar
-rootProject.name = "UmayTV-Extensions"
+fun File.eachDir(block: (File) -> Unit) {
+    listFiles()?.filter { it.isDirectory }?.forEach { block(it) }
+}
 
-// UmayTV eklentisini projeye dahil et
-include(":UmayTV")
+
+// To only include a single project, comment out the previous lines (except the first one), and include your plugin like so:
+// include("PluginName")

@@ -1,8 +1,8 @@
 {
-    "name": "TurkuazTv Reposu | Saklimavi",
-    "description": "Nikstream, Kekikan ve patr0nq Cloudstream eklentileri",
+    "name": "Nikyokki",
+    "description": "Türkçe içerikli eklenti havuzu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/UmayTrade/TurkuazBeta/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json"
     ]
 }
