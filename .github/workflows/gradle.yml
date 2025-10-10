@@ -20,11 +20,12 @@ jobs:
 
       # --- builds branch hazırlığı ---
       - name: Prepare builds branch
+        working-directory: src
         run: |
           git fetch origin builds || true
           git checkout builds 2>/dev/null || git checkout --orphan builds
           git reset --hard
-          mkdir -p builds
+          mkdir -p ../builds
 
       # --- Java 17 kurulum ---
       - name: Set up JDK 17
@@ -62,13 +63,12 @@ jobs:
 
       # --- Git commit & push işlemi ---
       - name: Push to builds branch
+        working-directory: src
         run: |
-          cd builds
-          git init
-          git remote add origin https://github.com/${{ github.repository }}.git
-          git checkout -B builds
+          git checkout builds
+          cp -r ../builds/* .
           git config user.email "actions@github.com"
           git config user.name "github-actions[bot]"
           git add .
           git commit -m "Yeni derleme: $GITHUB_SHA" || echo "No changes"
-          git push --force origin HEAD:builds
+          git push origin HEAD:builds
