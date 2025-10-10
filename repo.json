@@ -1,8 +1,0 @@
-{
-    "name": "Nikyokki",
-    "description": "Türkçe içerikli eklenti havuzu",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json"
-    ]
-}
